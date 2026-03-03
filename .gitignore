@@ -1,0 +1,7 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files from editors
+.vscode/
+.idea/
